@@ -1,12 +1,12 @@
-# scp-upload
+# Scp-upload
 Simple SCP upload script. Upload any file to your VPS. This script will use command SCP in other to make it work.
 
-Usage :
+# Usage :
 $chmod +x scp-upload.sh
 
 $scp-upload.sh
 
-Requirements:
+# Requirements:
 
 1) Your VPS IP Address
 
